@@ -31,6 +31,7 @@ public class HelloWorldController {
             count++;
             System.out.println(count);
         }
+        System.out.println("测试提交！");
         return "test";
     }
 }
